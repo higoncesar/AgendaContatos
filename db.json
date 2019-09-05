@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "Higon César",
+      "email": "higoncesar@gmail.com",
+      "phone": "(64)99923-2374",
+      "id": 0.11914513272450367
+    },
+    {
+      "id": 0.3510582970654019,
+      "name": "Danielle Dias",
+      "email": "dani@gmail.com",
+      "phone": "37987654321"
+    },
+    {
+      "id": 0.5923570901308042,
+      "name": "Renato Rodrigues",
+      "email": "renatorodrigues@gmail.com",
+      "phone": "41987654321"
+    }
+  ]
+}
