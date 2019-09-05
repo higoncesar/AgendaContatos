@@ -27,7 +27,16 @@ Entrar dentro da Pasta do Projeto:
 \$ cd AgendaContatos
 ```
 
-Rodar um dos comandos para iniciar do Projeto:
+Rodar um dos comandos abaixo, para baixar todas as dependencias do projeto:
+```
+$ yarn
+```
+ou
+```
+$ npm
+```
+
+e depois rodar um destes dois comandos para iniciar do Projeto:
 
 ```
 $ yarn start
@@ -40,6 +49,7 @@ $ npm start
 ```
 
 Agora irá rodar a aplicação Web na porta 3000 e a API fake do JsonServer ira utilizar a porta 3001.
+
 
 > "Honestidade em pequenas coisas, não é algo pequeno"
 > Clean Code - Robert C. Martin
